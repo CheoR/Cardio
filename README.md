@@ -8,7 +8,10 @@ Trello is a popular application for creating lists, adding cards to those lists,
 
 ## A Trello Clone
 
-A Trello "clone" is an application that mimics the features of Trello. Building a Trello clone [is a popular way](https://github.com/search?q=trello+clone&type=Repositories) of practicing and improving software development skills.
+A Trello "clone" is an application that mimics the features of Trello. Building a Trello clone is a popular way of practicing and improving software development skills.
+
+How popular? A quick Github search should tell us.  
+https://github.com/search?q=trello+clone&type=Repositories
 
 In general building a clone of an existing application is a good approach to practicing software development because it frees the developer from the burden of thinking up a project (and all of it's features), and allows the developer to focus on the technology.
 
