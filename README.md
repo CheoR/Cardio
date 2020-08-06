@@ -22,7 +22,7 @@ In general building a clone of an existing application is a good approach to pra
     * Are you trying to improve your front-end skills?
     * Are you trying to improve your back-end skills?
     * Are you trying to improve your database design and/or data relationship skills?
-    * Are you trying to improve your design skills?
+    * Are you trying to improve your UI/UX design skills?
     * Are you trying to learn a new technology?
     * Are you trying to practice Test Driven Development?
     * ...etc...
