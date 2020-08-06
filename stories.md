@@ -20,7 +20,7 @@ As a potential Cardio user, I would like to create an account so that I can logi
 
 ---
 
-As a Cardio user, I would like to login to Cardio, so that I can use it's features.
+As a Cardio user, I would like to login to Cardio, so that I can use its features.
 
 ---
 
@@ -30,7 +30,7 @@ As a Cardio user, I would like to view a list of my active (not archived) Boards
 
 As a Cardio user, I would like to Create a new Board with a Title so that I can add manage Lists and Cards for a particular purpose.
 
-> **NOTE:** By default a Board should only be Viewable by it's creator. Future stories will provide a "Publish" feature.
+> **NOTE:** By default a Board should only be Viewable by its creator. Future stories will provide a "Publish" feature.
 
 ---
 
@@ -76,8 +76,8 @@ As a Cardio user, I would like to use my mouse to drag a List left or right, so 
 
 As a Cardio user, I would like to View all Cards in each List on a selected Board, so that I can efficiently see the information I've added to the Board.
 
-> **NOTE:** Cards should appear in a Vertical column within a List with one Card above another. A Card's "Position" should determine it's location in the List with lower numbers being closer to the top.  
-> Each Card should display it's text Content.
+> **NOTE:** Cards should appear in a Vertical column within a List with one Card above another. A Card's "Position" should determine its location in the List with lower numbers being closer to the top.  
+> Each Card should display its text Content.
 
 ---
 
